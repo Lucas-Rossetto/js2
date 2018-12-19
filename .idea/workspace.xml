@@ -6,7 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b22de12-8902-40c5-ad0c-fa25e5ff4463" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/leet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/leet/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/leet/leet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/leet/package.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,17 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,11 +83,6 @@
               <item name="js2" type="b2602c69:ProjectViewProjectNode" />
               <item name="js2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="js2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js2" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -131,16 +120,15 @@
       <option name="presentableId" value="Default" />
       <updated>1545123064928</updated>
       <workItem from="1545123066549" duration="17238000" />
-      <workItem from="1545205980698" duration="15502000" />
+      <workItem from="1545205980698" duration="15728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32740000" />
+    <option name="totallyTimeSpent" value="32966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25379092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -317,7 +305,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
